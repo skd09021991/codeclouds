@@ -52,10 +52,20 @@ There is an api which will provide both ONE-CAll-API .
 
 const url = `https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${lon}&appid=${api_key}`
 
-I have launch this App also 
+For Running This App
 ............................
+Clone the project : git clone https://github.com/skd09021991/codeclouds.git
 
-Live Demo 
+Open the project in a editor of your choice then run =  
 
+1>   npm i 
+2>   npm start
 
+App is deployed in heroku
+
+.........................
+
+Live Demo : 
+
+http://codeclouds-app.herokuapp.com/
 
