@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43e058fe.chunk.css",
+    "main.js": "/static/js/main.771a0e85.chunk.js",
+    "main.js.map": "/static/js/main.771a0e85.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.acbcd79a.chunk.js": "/static/js/2.acbcd79a.chunk.js",
+    "static/js/2.acbcd79a.chunk.js.map": "/static/js/2.acbcd79a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.55e9ede2bbbc9cdac6770923e31d1b48.js": "/precache-manifest.55e9ede2bbbc9cdac6770923e31d1b48.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.43e058fe.chunk.css.map": "/static/css/main.43e058fe.chunk.css.map",
+    "static/media/mountain_sunrise.png": "/static/media/mountain_sunrise.ae88fcb2.png",
+    "static/media/sunset.png": "/static/media/sunset.00ff431f.png",
+    "static/media/App.css": "/static/media/weather.9fcba827.png"
+  }
+}
